@@ -1,5 +1,5 @@
 {
     "product-image-slider-mobile": {
-        "component": "darkmodeSwitcher"
+        "component": "DarkmodeSwitcher"
     }
 }
