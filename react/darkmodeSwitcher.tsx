@@ -1,7 +1,7 @@
 import React from 'react'
 import {useState} from 'react'
 
-function darkmodeSwitcher({ name }: Props) {
+function darkmodeSwitcher () {
 
   const [classDark, setClassDark] = useState("vtex-flex-layout-0-x-flexCol--darkMode-Col-1")
 
